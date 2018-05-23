@@ -1,7 +1,7 @@
 {
   "title": "Site 1",
   "id": 1,
-  "url": "http://site1.net"
+  "url": "http://site1.net",
   "description": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
   "subSites": [
     {title: "SubTitle 1", description: "Subsite of Site 1"},
