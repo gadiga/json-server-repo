@@ -1,0 +1,13 @@
+{
+  "title": "Site 1",
+  "id": 1,
+  "url": "http://site1.net"
+  "description": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "subSites": [
+    {title: "SubTitle 1", description: "Subsite of Site 1"},
+    {title: "SubTitle 2", description: "Subsite of Site 2"},
+    {title: "SubTitle 3", description: "Subsite of Site 3"},
+    {title: "SubTitle 4", description: "Subsite of Site 4"},
+    {title: "SubTitle 5", description: "Subsite of Site 5"}
+  ]  
+}
