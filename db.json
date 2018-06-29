@@ -26,5 +26,35 @@
           {"title": "SubTitle 5", "description": "Subsite of Site 2"}
         ]
       }
+    ],
+    "people":[
+        {
+            "id": 1,
+            "name": {"first": "John", "middle": "A", "last": "Wayne"},
+            "gender": "male",
+            "occupation": "gunman",
+            "address": {"street": "101 swagger drive", "city": "el mundo", "state": "TX", "country": "USA"}
+        },
+        {
+            "id": 2,
+            "name": {"first": "Cycle", "middle": "B", "last": "Jackson"},
+            "gender": "male",
+            "occupation": "screemer",
+            "address": {"street": "101 brake ave", "city": "ding dong", "state": "CO", "country": "USA"}
+        },
+        {
+            "id": 2,
+            "name": {"first": "Sunny", "middle": "C", "last": "Mayones"},
+            "gender": "female",
+            "occupation": "sutradhari",
+            "address": {"street": "66 pex drive", "city": "Kamatipura", "state": "MH", "country": "INDIA"}
+        },
+        {
+            "id": 4,
+            "name": {"first": "Vati", "middle": "D", "last": "Banherji"},
+            "gender": "female",
+            "occupation": "duckling",
+            "address": {"street": "606 ugly street", "city": "Kaalkaluta", "state": "WB", "country": "INDIA"}
+        }
     ]
 }
